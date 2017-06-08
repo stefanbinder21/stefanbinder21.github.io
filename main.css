@@ -5,3 +5,10 @@ strong {color: #77f441;}
 span{color: #f441ee;}
 span.TEST{color:#77f441;
 }
+}
+
+#header {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #426493;
