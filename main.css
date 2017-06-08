@@ -1,14 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Courrier New", Courier, monospace;
+}
+
 h1 {
-    color: #4265f4;
-}
-strong {color: #77f441;}
-span{color: #f441ee;}
-span.TEST{color:#77f441;
-}
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
 }
 
 #header {
     text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
-    background-color: #426493;
+    background-color: #e851e2;
+}
+
+#content {
+    width: 85%;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: #5d50e8;
+}
+
+.color{
+    font-weight: bold;
+    color: #5d50e8;
+}
+
+#big_django{
+    font-size: 150%;
+    font-weight: bold;
+}
